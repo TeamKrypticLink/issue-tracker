@@ -1,4 +1,4 @@
-# issue-tracker
+# Issue Tracker
 This repo is used for tracking issues for ValkyrieofNight and TeamKrypticLinks mods.
 
 # How to report a bug?
